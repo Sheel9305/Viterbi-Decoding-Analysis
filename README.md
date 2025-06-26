@@ -3,7 +3,7 @@
 This MATLAB project simulates and analyzes the performance of convolutional codes using both **Hard Decision Decoding (HDD)** and **Soft Decision Decoding (SDD)** techniques over an **AWGN** channel with **BPSK modulation**.
 
 > 📘 **Part of academic coursework (CT216 – Communication Systems)**  
-> 👥 **Group Project** | 🎯 *My Contribution:* Implemented Soft Decision Decoding module and led the performance analysis presentation.
+> 👥 **Group Project** | 🎯 *My Contribution:* Implemented Hard Decision Decoding module and led the performance analysis presentation.
 
 ---
 
