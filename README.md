@@ -21,7 +21,7 @@ This MATLAB project simulates and compares **Hard Decision Decoding (HDD)** and 
 
 ## 🚀 Features
 
-- Single `.m` file includes:
+- Single pdf file includes:
   - Convolutional encoding logic
   - HDD and SDD decoding
   - BER computation
@@ -31,7 +31,7 @@ This MATLAB project simulates and compares **Hard Decision Decoding (HDD)** and 
 
 ## 📂 Files
 
-- `viterbi_decoder.m` – Main MATLAB script containing full simulation logic
+- `viterbi_decoder.pdf` – Main MATLAB script containing full simulation logic in pdf format with results
 - `CT216_Viterbi_Presentation.pptx` – Group presentation slides
 - `Technical_Report.pdf` – Complete analysis and derivation report
 
