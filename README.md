@@ -32,8 +32,7 @@ This MATLAB project simulates and compares **Hard Decision Decoding (HDD)** and 
 ## 📂 Files
 
 - `viterbi_decoder.pdf` – Main MATLAB script containing full simulation logic in pdf format with results
-- `CT216_Viterbi_Presentation.pptx` – Group presentation slides
-- `Technical_Report.pdf` – Complete analysis and derivation report
+- `viterbi_decoder_Presentation.pptx` – Group presentation slides
 
 ---
 
